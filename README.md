@@ -1,3 +1,5 @@
+🎰 [FOR SALE] Bitcoin Video Poker Script – (Blockonomics Integration)💰
+
 Hey everyone 👋
 I’m selling my fully functional Bitcoin Video Poker web app — a clean, modern, and complete gambling platform with real crypto payment integration.
 This isn’t just a demo — it’s a ready-to-run project that can start earning you BTC right out of the box.
