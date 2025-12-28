@@ -31,15 +31,13 @@ Easy to install on any shared hosting or VPS (no special dependencies).
 
 💰 Price: $50 USD
 
-🔗 Buy here: https://gourl.io/77fdu
+🔗 Buy here: https://satoshibox.online/8UuMdXYT
 
 Once purchased, you’ll get:
 Full source code (frontend + back
 end)
 Installation guide
 24h basic support for setup
-
-DEMO: https://demo-bitcoin-videopoker-script-1-0.chytrytip.eu
 
 🧠 Why Buy This Script?
 Because it’s simple, functional, and ready to earn.
